@@ -1,3 +1,4 @@
+[![njsscan sarif](https://github.com/Nicat-dcw/openai-proxy/actions/workflows/njsscan.yml/badge.svg)](https://github.com/Nicat-dcw/openai-proxy/actions/workflows/njsscan.yml)
 # OpenAI Proxy
 
 A TypeScript-based OpenAI Compatible gateway that provides a unified interface for multiple AI model providers (OpenAI, Anthropic, etc.) with features like authentication, rate limiting, and provider fallback.
