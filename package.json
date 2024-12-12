@@ -1,0 +1,21 @@
+{
+  "name": "openai-proxy",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/cors": "^1.1.1",
+    "node-fetch": "^3.3.2",
+    "sagadb": "https://github.com/Nicat-dcw/SagaDB.git",
+    "yaml": "^2.6.1"
+  },
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "test": "bun run src/start.ts"
+  }
+}

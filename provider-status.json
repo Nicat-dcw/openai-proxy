@@ -1,0 +1,18 @@
+{
+  "provider:openai": {
+    "name": "openai",
+    "isActive": true,
+    "lastChecked": 1734012070096
+  },
+  "provider:anthropic": {
+    "name": "anthropic",
+    "isActive": false,
+    "lastChecked": 1734012074788,
+    "lastError": "HTTP 404: Not Found"
+  },
+  "provider:github": {
+    "name": "github",
+    "isActive": true,
+    "lastChecked": 1734011285410
+  }
+}

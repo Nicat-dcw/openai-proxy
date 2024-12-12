@@ -1,0 +1,18 @@
+{
+  "gr-xxxxxxxxxxxxxxxxxxxxxxxx": {
+    "key": "gr-xxxxxxxxxxxxxxxxxxxxxxxx",
+    "createdAt": 1697040000000,
+    "lastUsed": 1697040000000,
+    "dailyRequests": 0,
+    "lastResetDate": "2023-10-11",
+    "isPremium": false
+  },
+  "gr-yyyyyyyyyyyyyyyyyyyyyyyy": {
+    "key": "gr-yyyyyyyyyyyyyyyyyyyyyyyy",
+    "createdAt": 1697043600000,
+    "lastUsed": 1697043600000,
+    "dailyRequests": 0,
+    "lastResetDate": "2023-10-11",
+    "isPremium": true
+  }
+}
